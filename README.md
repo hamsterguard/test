@@ -1,6 +1,6 @@
 # test
 #Inline-style: 
-#![alt text2](https://github.com/hamsterguard/blob/master/image/low_res_copy_may_2.gif "Logo Title Text 1")
+#![alt text2](https://github.com/hamsterguard/blob/master/low_res_copy_may_2.gif "Logo Title Text 1")
 
 
 <div>
